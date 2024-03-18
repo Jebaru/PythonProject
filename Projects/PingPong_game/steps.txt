@@ -1,0 +1,18 @@
+1. Create the screen
+2. Create and move a paddle
+Paddle:
+width = 20
+height = 100
+x_pos = 350
+y_pos = 0
+and must have up and down - 20 pixel
+3. Create another Paddle
+4. Create a ball and amke it move
+width = 20
+height = 20
+x_pos = 0
+y_pos = 0
+5. Detect collision with wall and bounce
+6. Detect collision with paddle
+7. Detect when paddle misses
+8. Keep Score
